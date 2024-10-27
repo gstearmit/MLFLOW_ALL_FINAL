@@ -49,5 +49,10 @@ if __name__ == "__main__":
     print(f"MAE: {mae}")
     print(f"R2: {r2}")
 
+    print("Elasticnet model (alpha=%f, l1_ratio=%f):" % (alpha, l1_ratio))
+    print("  RMSE: %s" % rmse)
+    print("  MAE: %s" % mae)
+    print("  R2: %s" % r2)
+
     print("Model logged successfully!")
 
