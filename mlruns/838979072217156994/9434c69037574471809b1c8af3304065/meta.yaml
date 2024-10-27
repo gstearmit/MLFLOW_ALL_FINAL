@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MlFlow/mlruns/838979072217156994/9434c69037574471809b1c8af3304065/artifacts
+end_time: 1730037953148
+entry_point_name: ''
+experiment_id: '838979072217156994'
+lifecycle_stage: active
+run_id: 9434c69037574471809b1c8af3304065
+run_name: rogue-cat-95
+run_uuid: 9434c69037574471809b1c8af3304065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730037932047
+status: 3
+tags: []
+user_id: BOSS

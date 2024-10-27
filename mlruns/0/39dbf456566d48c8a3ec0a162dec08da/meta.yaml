@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39dbf456566d48c8a3ec0a162dec08da/artifacts
+end_time: 1730037477184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39dbf456566d48c8a3ec0a162dec08da
+run_name: nosy-lark-527
+run_uuid: 39dbf456566d48c8a3ec0a162dec08da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730037461815
+status: 3
+tags: []
+user_id: BOSS
